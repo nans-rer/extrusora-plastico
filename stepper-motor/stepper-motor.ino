@@ -2,7 +2,7 @@
 int STEP = 4; // Pulse pin
 int DIR  = 5; // Direction pin
 int ENA = 6; // Enable pin
-int BUTTON = 1 // Button pin
+int BUTTON = 1; // Button pin
 long RPM = 200; 
 long SPR = 400; // Steps per revolution
 long SPS; // Steps per second
